@@ -1,0 +1,511 @@
+id,department,total_logins
+5,departamento de licenciatura en informatica,64
+8,departamento de psicopedagogía,14
+9,departamento de psicopedagogía,118
+10,departamento de psicopedagogía,65
+12,departamento de ing de sistemas y telecomunicaciones,30
+13,departamento de psicopedagogía,10
+14,departamento de psicopedagogía,3
+15,departamento de psicopedagogía,14
+21,departamento de enfermería,7
+24,departamento de ingeniería mecánica,65
+25,departamento de informática,3
+26,departamento de ingeniería ambiental,39
+27,departamento de informática educativa,48
+35,departamento de ciencias administrativas,37
+38,departamento de regencía y farmacia,26
+45,departamento de ing de sistemas y telecomunicaciones,91
+82,departamento de ing de sistemas y telecomunicaciones,87
+83,departamento de ing de sistemas y telecomunicaciones,33
+84,departamento de ing de sistemas y telecomunicaciones,46
+85,departamento de ing de sistemas y telecomunicaciones,36
+86,departamento de ing de sistemas y telecomunicaciones,82
+87,departamento de ing de sistemas y telecomunicaciones,1
+88,departamento de ing de sistemas y telecomunicaciones,8
+89,departamento de ing de sistemas y telecomunicaciones,17
+90,departamento de ing de sistemas y telecomunicaciones,1
+91,departamento de ing de sistemas y telecomunicaciones,6
+92,departamento de ing de sistemas y telecomunicaciones,2
+95,departamento de ing de sistemas y telecomunicaciones,32
+96,departamento de ing de sistemas y telecomunicaciones,21
+97,departamento de ing de sistemas y telecomunicaciones,1
+98,departamento de ing de sistemas y telecomunicaciones,13
+100,departamento de ing de sistemas y telecomunicaciones,1
+101,departamento de ing de sistemas y telecomunicaciones,58
+103,departamento de ing de sistemas y telecomunicaciones,17
+104,departamento de ing de sistemas y telecomunicaciones,34
+105,departamento de ing de sistemas y telecomunicaciones,8
+106,departamento de ing de sistemas y telecomunicaciones,83
+107,departamento de ing de sistemas y telecomunicaciones,33
+108,departamento de ing de sistemas y telecomunicaciones,52
+109,departamento de ing de sistemas y telecomunicaciones,50
+110,departamento de ing de sistemas y telecomunicaciones,122
+111,departamento de ing de sistemas y telecomunicaciones,2
+113,departamento de ing de sistemas y telecomunicaciones,3
+114,departamento de ing de sistemas y telecomunicaciones,66
+115,departamento de ing de sistemas y telecomunicaciones,63
+128,departamento de biología,52
+135,departamento de enfermería,5
+151,departamento de biología,23
+152,departamento de ciencias pecuarías,38
+161,departamento de ciencias pecuarías,38
+164,departamento de idiomas extranjeros,4
+165,departamento de ciencias pecuarías,2
+167,departamento de ciencias pecuarías,29
+168,departamento de ciencias pecuarías,1
+170,departamento de ciencias pecuarías,26
+172,departamento de ciencias pecuarías,1
+179,departamento de ciencias pecuarías,4
+180,departamento de ciencias pecuarías,9
+182,departamento de química,1
+185,departamento de biología,26
+186,departamento de química,47
+190,departamento de ciencias pecuarías,5
+193,departamento de ciencias administrativas,19
+194,departamento de ciencias pecuarías,20
+195,departamento de ciencias pecuarías,16
+197,departamento de matemáticas y estadística,4
+198,departamento de matemáticas y estadística,7
+199,departamento de ciencias administrativas,19
+200,departamento de ciencias administrativas,136
+201,departamento de ciencias administrativas,44
+204,departamento de salud pública,80
+205,departamento de salud pública,128
+206,departamento de salud pública,572
+208,departamento de idiomas extranjeros,43
+209,departamento de idiomas extranjeros,21
+210,departamento de ciencias administrativas,76
+211,departamento de ciencias administrativas,49
+214,departamento de ciencias administrativas,128
+215,departamento de ciencias administrativas,31
+216,departamento de ciencias administrativas,83
+218,departamento de matemáticas y estadística,30
+220,departamento de ciencias administrativas,49
+221,departamento de ciencias administrativas,41
+222,departamento de ciencias administrativas,46
+223,departamento de idiomas extranjeros,3
+226,departamento de ciencias administrativas,71
+227,departamento de ciencias administrativas,27
+228,departamento de ciencias administrativas,22
+229,departamento de ciencias administrativas,5
+232,departamento de idiomas extranjeros,125
+233,departamento de ciencias administrativas,58
+235,departamento de ciencias administrativas,64
+236,departamento de ciencias administrativas,29
+237,departamento de ciencias administrativas,84
+238,departamento de idiomas extranjeros,23
+239,departamento de ciencias administrativas,32
+240,departamento de ciencias administrativas,72
+241,departamento de ciencias administrativas,108
+242,departamento de ciencias administrativas,26
+243,departamento de ciencias administrativas,79
+244,departamento de ciencias administrativas,37
+245,departamento de ciencias administrativas,110
+246,departamento de ciencias administrativas,70
+247,departamento de idiomas extranjeros,17
+248,departamento de idiomas extranjeros,15
+249,departamento de ciencias administrativas,27
+250,departamento de ciencias administrativas,7
+252,departamento de ingeniería industrial,27
+254,departamento de ciencias administrativas,53
+255,departamento de ciencias acuícolas,4
+259,departamento de ciencias acuícolas,1
+260,departamento de ciencias acuícolas,2
+261,departamento de ciencias acuícolas,79
+262,departamento de ciencias acuícolas,12
+263,departamento de ciencias administrativas,64
+266,departamento de ciencias acuícolas,1
+267,departamento de ciencias acuícolas,21
+268,departamento de informática educativa,102
+269,departamento de español y literatura,6
+270,"departamento de cultura física, recreacion y deporte",9
+271,departamento de química,6
+272,departamento de psicopedagogía,106
+276,departamento de biología,14
+277,departamento de biología,2
+278,departamento de ing agronómica y desarrollo rural,35
+282,departamento de ciencias acuícolas,1
+284,departamento de biología,5
+288,departamento de ciencias sociales,5
+289,departamento de ciencias acuícolas,16
+295,departamento de psicopedagogía,21
+304,departamento de artes,16
+311,departamento de psicopedagogía,52
+312,departamento de psicopedagogía,1
+314,departamento de idiomas extranjeros,35
+317,departamento de idiomas extranjeros,1
+319,departamento de informática educativa,200
+320,departamento de idiomas extranjeros,2
+321,departamento de psicopedagogía,51
+323,departamento de idiomas extranjeros,35
+324,departamento de idiomas extranjeros,2
+325,departamento de informática educativa,80
+326,departamento de español y literatura,1
+329,departamento de biología,15
+331,departamento de biología,25
+332,departamento de biología,48
+333,departamento de biología,69
+334,departamento de biología,17
+335,departamento de biología,9
+336,departamento de biología,8
+338,departamento de biología,45
+339,departamento de química,43
+340,departamento de ciencias naturales,79
+344,departamento de química,23
+345,departamento de química,52
+346,departamento de química,41
+347,departamento de química,8
+354,departamento de matemáticas y estadística,6
+355,departamento de ciencias naturales,26
+357,departamento de ciencias naturales,40
+359,departamento de psicopedagogía,82
+360,departamento de ciencias jurídicas,37
+361,departamento de psicopedagogía,21
+364,departamento de ciencias naturales,11
+365,departamento de ciencias naturales,1
+366,departamento de ciencias naturales,6
+372,departamento de ciencias naturales,1
+373,"departamento de cultura física, recreacion y deporte",47
+377,"departamento de cultura física, recreacion y deporte",4
+378,"departamento de cultura física, recreacion y deporte",52
+381,"departamento de cultura física, recreacion y deporte",3
+382,"departamento de cultura física, recreacion y deporte",1
+383,"departamento de cultura física, recreacion y deporte",2
+384,departamento de psicopedagogía,8
+385,"departamento de cultura física, recreacion y deporte",2
+386,"departamento de cultura física, recreacion y deporte",1
+390,"departamento de cultura física, recreacion y deporte",1
+391,"departamento de cultura física, recreacion y deporte",2
+394,departamento de idiomas extranjeros,2
+397,"departamento de cultura física, recreacion y deporte",8
+403,departamento de ing agronómica y desarrollo rural,5
+405,departamento de ing agronómica y desarrollo rural,38
+409,departamento de física y electrónica,12
+411,departamento de ing agronómica y desarrollo rural,48
+415,departamento de ing agronómica y desarrollo rural,34
+416,departamento de química,9
+417,departamento de matemáticas y estadística,22
+418,departamento de idiomas extranjeros,6
+419,departamento de ing agronómica y desarrollo rural,4
+422,departamento de ing agronómica y desarrollo rural,1
+423,departamento de ing agronómica y desarrollo rural,40
+425,departamento de ing agronómica y desarrollo rural,3
+428,departamento de ing agronómica y desarrollo rural,16
+429,departamento de ing agronómica y desarrollo rural,44
+431,departamento de ing agronómica y desarrollo rural,4
+432,departamento de ing agronómica y desarrollo rural,21
+433,departamento de idiomas extranjeros,3
+438,departamento de ciencias administrativas,15
+439,departamento de ingeniería de alimentos,56
+442,departamento de química,21
+445,departamento de idiomas extranjeros,2
+446,departamento de ciencias jurídicas,99
+447,departamento de psicopedagogía,2
+449,departamento de idiomas extranjeros,31
+450,departamento de matemáticas y estadística,9
+451,departamento de matemáticas y estadística,43
+453,departamento de química,2
+454,departamento de química,39
+455,departamento de química,1
+459,departamento de química,86
+460,departamento de química,13
+461,departamento de química,43
+462,departamento de química,11
+463,departamento de química,14
+464,departamento de química,20
+465,departamento de química,1
+467,departamento de química,3
+472,departamento de geografía y medio ambiente,12
+473,departamento de geografía y medio ambiente,40
+474,departamento de geografía y medio ambiente,83
+476,departamento de idiomas extranjeros,25
+477,departamento de geografía y medio ambiente,3
+478,departamento de geografía y medio ambiente,14
+480,departamento de matemáticas y estadística,14
+481,departamento de geografía y medio ambiente,165
+482,departamento de geografía y medio ambiente,7
+483,departamento de geografía y medio ambiente,52
+484,departamento de geografía y medio ambiente,16
+487,departamento de geografía y medio ambiente,23
+489,departamento de geografía y medio ambiente,117
+491,departamento de física y electrónica,2
+492,departamento de física y electrónica,120
+495,departamento de física y electrónica,11
+496,departamento de física y electrónica,1
+499,departamento de física y electrónica,31
+502,departamento de física y electrónica,6
+503,departamento de matemáticas y estadística,2
+507,departamento de física y electrónica,28
+510,departamento de física y electrónica,78
+512,departamento de ingeniería industrial,28
+514,departamento de matemáticas y estadística,7
+515,departamento de ingeniería mecánica,17
+519,departamento de ciencias administrativas,43
+521,departamento de matemáticas y estadística,73
+523,departamento de ingeniería industrial,45
+524,departamento de ingeniería industrial,66
+525,departamento de ingeniería industrial,38
+526,departamento de ingeniería industrial,2
+528,departamento de ingeniería industrial,13
+529,departamento de ingeniería industrial,2
+531,departamento de ingeniería industrial,63
+533,departamento de ingeniería industrial,20
+534,departamento de ingeniería industrial,27
+536,departamento de ingeniería industrial,160
+537,departamento de ingeniería industrial,27
+538,departamento de ingeniería industrial,11
+539,departamento de ingeniería industrial,1
+540,departamento de ingeniería industrial,110
+541,departamento de ingeniería industrial,29
+542,departamento de ingeniería industrial,29
+544,departamento de química,15
+545,departamento de biología,37
+547,departamento de biología,2
+549,departamento de biología,12
+550,departamento de biología,19
+551,departamento de matemáticas y estadística,24
+552,departamento de español y literatura,1
+553,departamento de biología,2
+556,departamento de biología,2
+557,departamento de idiomas extranjeros,89
+558,departamento de biología,43
+559,departamento de ing agronómica y desarrollo rural,2
+560,departamento de biología,36
+561,departamento de biología,2
+563,departamento de biología,28
+564,departamento de biología,7
+565,departamento de bacteriología,151
+568,departamento de salud pública,91
+572,departamento de matemáticas y estadística,6
+573,departamento de matemáticas y estadística,50
+574,departamento de matemáticas y estadística,65
+575,departamento de matemáticas y estadística,1
+576,departamento de matemáticas y estadística,4
+579,departamento de matemáticas y estadística,68
+582,departamento de idiomas extranjeros,56
+583,departamento de matemáticas y estadística,67
+584,departamento de matemáticas y estadística,62
+585,departamento de física y electrónica,39
+586,departamento de física y electrónica,38
+588,departamento de idiomas extranjeros,13
+593,departamento de idiomas extranjeros,4
+594,departamento de matemáticas y estadística,111
+595,departamento de ingeniería industrial,14
+596,departamento de salud pública,804
+597,departamento de ingeniería ambiental,24
+598,departamento de idiomas extranjeros,4
+599,departamento de química,11
+600,departamento de biología,25
+601,departamento de ingeniería ambiental,51
+602,departamento de ingeniería ambiental,61
+603,departamento de ingeniería mecánica,29
+604,departamento de ingeniería ambiental,106
+606,departamento de ingeniería ambiental,33
+607,departamento de ingeniería ambiental,20
+608,departamento de ingeniería ambiental,11
+612,departamento de ingeniería ambiental,60
+613,departamento de ingeniería ambiental,3
+614,departamento de ingeniería ambiental,18
+615,departamento de ingeniería ambiental,48
+617,departamento de enfermería,100
+618,departamento de enfermería,4
+620,departamento de química,10
+622,departamento de enfermería,32
+623,departamento de enfermería,30
+624,departamento de enfermería,36
+626,departamento de enfermería,32
+627,departamento de enfermería,68
+632,departamento de enfermería,10
+634,departamento de química,63
+635,departamento de regencía y farmacia,2
+636,departamento de regencía y farmacia,9
+637,departamento de informática educativa,167
+638,departamento de bacteriología,27
+640,departamento de regencía y farmacia,1
+641,departamento de regencía y farmacia,11
+642,departamento de regencía y farmacia,13
+648,departamento de regencía y farmacia,56
+649,departamento de salud pública,123
+650,departamento de biología,75
+651,departamento de bacteriología,4
+653,departamento de bacteriología,23
+654,departamento de bacteriología,17
+655,departamento de bacteriología,9
+656,departamento de bacteriología,53
+657,departamento de idiomas extranjeros,22
+658,departamento de informática educativa,33
+659,departamento de bacteriología,13
+661,departamento de bacteriología,8
+664,departamento de bacteriología,52
+665,departamento de bacteriología,11
+666,departamento de biología,23
+672,departamento de bacteriología,9
+674,departamento de bacteriología,1
+675,departamento de bacteriología,6
+677,departamento de bacteriología,4
+678,departamento de bacteriología,11
+679,departamento de bacteriología,2
+680,departamento de bacteriología,12
+681,departamento de bacteriología,11
+683,departamento de bacteriología,7
+684,departamento de bacteriología,32
+690,departamento de bacteriología,17
+691,departamento de bacteriología,24
+692,departamento de bacteriología,34
+693,departamento de bacteriología,17
+695,departamento de bacteriología,2
+699,departamento de bacteriología,2
+701,departamento de bacteriología,9
+706,departamento de ciencias jurídicas,34
+707,departamento de ciencias jurídicas,29
+710,departamento de ciencias jurídicas,22
+711,departamento de ciencias jurídicas,2
+712,departamento de ciencias jurídicas,8
+717,departamento de ciencias jurídicas,1
+727,departamento de biología,4
+730,departamento de ciencias administrativas,29
+731,departamento de psicopedagogía,3
+732,departamento de informática educativa,74
+735,departamento de ing agronómica y desarrollo rural,17
+739,departamento de ingeniería de alimentos,61
+741,departamento de biología,13
+752,departamento de bacteriología,1
+753,"departamento de cultura física, recreacion y deporte",11
+760,departamento de informática educativa,52
+761,departamento de enfermería,2
+766,departamento de ciencias administrativas,13
+767,departamento de ciencias administrativas,51
+770,departamento de ingeniería ambiental,69
+777,departamento de ciencias jurídicas,2
+778,departamento de psicopedagogía,166
+3796,departamento de fisica,59
+11725,departamento de ingeniería industrial,99
+11732,departamento de salud pública,60
+11734,departamento de salud pública,99
+11735,departamento de salud pública,70
+11736,departamento de salud pública,27
+11737,departamento de salud pública,20
+11738,departamento de salud pública,20
+11739,departamento de salud pública,83
+11740,departamento de salud pública,16
+11741,departamento de salud pública,99
+11742,departamento de salud pública,33
+11743,departamento de salud pública,49
+11746,departamento de informática educativa,9
+11755,departamento de informática educativa,3
+11762,departamento de idiomas extranjeros,2
+11764,departamento de idiomas extranjeros,20
+11766,departamento de idiomas extranjeros,2
+11767,departamento de ciencias sociales,1
+11770,departamento de geografía y medio ambiente,58
+11771,departamento de ciencias sociales,2
+11772,departamento de ciencias sociales,17
+11773,departamento de ciencias sociales,5
+11774,departamento de ciencias sociales,5
+11777,departamento de ciencias sociales,7
+11778,departamento de ciencias sociales,33
+11779,departamento de ciencias sociales,20
+11780,"departamento de cultura fisica, recreacion y deporte",16
+11784,departamento de ciencias jurídicas,72
+11785,departamento de salud pública,16
+11786,departamento de salud pública,64
+11789,departamento de salud pública,45
+11790,departamento de administración en salud,49
+11804,departamento de ciencias administrativas,29
+14394,departamento de salud pública,68
+14396,departamento de salud pública,100
+14403,departamento de licenciatura en informatica,48
+14409,departamento de psicopedagogía,9
+14414,departamento de informática educativa,167
+14417,departamento de enfermería,3
+14427,departamento de administración en salud,54
+14446,departamento de informática educativa,278
+14453,departamento de salud pública,29
+14454,departamento de salud pública,131
+14456,departamento de salud pública,31
+14458,departamento de salud pública,51
+14461,departamento de informática educativa,52
+14462,departamento de español y literatura,7
+14463,departamento de psicopedagogía,4
+14464,departamento de idiomas extranjeros,4
+14465,departamento de idiomas extranjeros,1
+14467,departamento de español y literatura,3
+14471,departamento de idiomas extranjeros,27
+14474,departamento de idiomas extranjeros,1
+14477,departamento de biología,30
+14479,departamento de ingeniería de alimentos,39
+14480,departamento de ingeniería de alimentos,35
+14485,departamento de ingeniería de alimentos,6
+14487,departamento de ingeniería de alimentos,27
+14489,departamento de ingeniería de alimentos,19
+14491,departamento de ingeniería de alimentos,14
+14492,departamento de ingeniería de alimentos,55
+14494,departamento de idiomas extranjeros,20
+14495,departamento de ing de sistemas y telecomunicaciones,31
+14497,departamento de física y electrónica,1
+14498,departamento de ingeniería mecánica,35
+14499,departamento de ingeniería mecánica,49
+14501,departamento de ingeniería mecánica,47
+14502,departamento de ingeniería mecánica,36
+14504,departamento de informática educativa,71
+14506,departamento de idiomas extranjeros,19
+14510,departamento de ingeniería mecánica,14
+14511,departamento de español y literatura,5
+14512,departamento de biología,5
+15188,departamento de informática educativa,88
+15190,departamento de informática educativa,1
+15191,departamento de informática educativa,7
+15192,departamento de informática educativa,67
+15193,departamento de informática educativa,27
+15195,departamento de informática educativa,65
+15197,departamento de informática educativa,33
+15198,departamento de idiomas extranjeros,2
+15202,departamento de idiomas extranjeros,1
+15203,departamento de psicopedagogía,146
+15206,departamento de psicopedagogía,2
+15209,departamento de ingeniería de alimentos,1
+15210,departamento de ingeniería de alimentos,91
+15214,departamento de ing de sistemas y telecomunicaciones,17
+15215,departamento de ingeniería mecánica,3
+15216,departamento de ingeniería mecánica,50
+15218,departamento de ingeniería mecánica,18
+15219,departamento de ingeniería mecánica,7
+15222,departamento de ingeniería mecánica,33
+15223,departamento de ingeniería mecánica,19
+15229,departamento de ingeniería mecánica,53
+15611,departamento de ingeniería de alimentos,52
+15620,departamento de idiomas extranjeros,28
+15621,departamento de ciencias naturales,47
+15624,departamento de ingeniería de alimentos,32
+15626,departamento de ciencias sociales,6
+15827,departamento de psicopedagogía,59
+15871,departamento de ciencias jurídicas,20
+15890,departamento de informática,83
+16117,departamento de ingenieria ambiental,22
+16136,departamento de idiomas extranjeros,3
+16223,departamento de ciencias agricolas,36
+16251,departamento de ciencias agricolas,1
+16357,departamento de matemáticas y estadística,4
+16361,departamento de biología,2
+16364,departamento de psicopedagogía,1
+16404,departamento de ciencias agricolas,1
+16465,departamento de física y electrónica,7
+16547,departamento de idiomas extranjeros,2
+16555,departamento de bacteriología,1
+16559,departamento de enfermería,1
+16563,departamento de enfermería,1
+16570,departamento de enfermería,1
+16574,departamento de enfermería,1
+16578,departamento de enfermería,1
+16579,departamento de enfermería,1
+16586,departamento de salud pública,9
+16587,departamento de salud pública,2
+17858,departamento de matemáticas y estadística,23
+17911,departamento de bacteriología,54
+17913,departamento de bacteriología,30
+17915,departamento de bacteriología,14
+17924,departamento de español y literatura,47
+17927,departamento de ingeniería de alimentos,25
+17955,departamento de ingeniería ambiental,55
+19332,departamento de geografía y medio ambiente,47
+19340,departamento de ingeniería,19
